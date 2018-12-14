@@ -22,7 +22,7 @@ body {
     width: 58%;
     margin-left: 21%;
     margin-top: 30px;
-    text-decoration-line: underline;
+
 }
 #lijstje ul li {
     list-style: none;
@@ -57,7 +57,7 @@ body {
     width: 58%;
     margin-left: 21%;
     margin-top: 2%;
-    text-decoration-line: underline;
+
 }
 #lijstje_twee ul li {
     list-style: none;
@@ -94,7 +94,7 @@ hr {
     width: 58%;
     margin-left: 21%;
     margin-top: 2%;
-    text-decoration-line: underline;
+
 }
 #lijstje_drie ul li {
     list-style: none;
@@ -131,5 +131,22 @@ hr {
 .samen {
     width: 69%;
     margin-left: 15%;
+}
+#linkjes ul li a {
+    list-style: none;
+    background-color: white;
+    color: white;
+    display: flex;
+    justify-content: center;
 
+}
+div#navbar ul li a{
+    list-style: none;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.li {
+    list-style: none;
 }
