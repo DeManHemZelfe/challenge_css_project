@@ -225,3 +225,13 @@ div#navbar ul li a{
 #logo_producten_silk {
     margin-left: 15%;
 }
+
+/*===================================*/
+
+.salon_box {
+    display: flex;
+    justify-content: center;
+}
+.salonfoto {
+width: 25%;
+}
