@@ -189,3 +189,39 @@ div#navbar ul li a{
 #logo_producten {
     margin-left: 15%;
 }
+
+/*================================================*/
+
+#h1h1h1 {
+    display: flex;
+    margin-left: 20%;
+    margin-top: 7%;
+    font-size: xx-large;
+}
+#h2h2 {
+    display: flex;
+    justify-content: center;
+}
+#titel_twee {
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+    width: 48%;
+    font-size: x-large;
+
+}
+#box_zes {
+    display: inline-block;
+    justify-content: center;
+}
+#foto_zes {
+    display: inline-block;
+    justify-content: center;
+}
+.samen_vijf {
+    width: 69%;
+    margin-left: 15%;
+}
+#logo_producten_silk {
+    margin-left: 15%;
+}
