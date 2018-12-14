@@ -1,0 +1,135 @@
+body {
+    background-color: gold;
+    font-family: 'Oswald', sans-serif;
+}
+#logo {
+    display: flex;
+    height: 635px;
+    width: 558px;
+    justify-content: center;
+    border: 1px solid black;
+}
+#container_een {
+    display: flex;
+    justify-content: center;
+}
+#tekst_een {
+}
+#box_een {
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 58%;
+    margin-left: 21%;
+    margin-top: 30px;
+    text-decoration-line: underline;
+}
+#lijstje ul li {
+    list-style: none;
+    display: flex;
+    width: 70%;
+
+}
+#lijstje {
+    width: 70%;
+}
+#geld {
+    display: flex;
+    width: 30%;
+    justify-content: center;
+    margin-top: 13px;
+
+}
+/*===================================================================*/
+
+
+
+#container_twee {
+    display: flex;
+    justify-content: center;
+}
+#tekst_twee {
+}
+#box_twee{
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 58%;
+    margin-left: 21%;
+    margin-top: 2%;
+    text-decoration-line: underline;
+}
+#lijstje_twee ul li {
+    list-style: none;
+    display: flex;
+    width: 70%;
+
+}
+#lijstje_twee {
+    width: 70%;
+}
+#geld_twee {
+    display: flex;
+    width: 30%;
+    justify-content: center;
+    margin-top: 13px;
+}
+hr {
+    width: 62%;
+    margin-top: 2%;
+}
+
+/*----------------------------------------------------------------------------------*/
+
+#container_drie {
+    display: flex;
+    justify-content: center;
+}
+#tekst_drie{
+}
+#box_drie{
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 58%;
+    margin-left: 21%;
+    margin-top: 2%;
+    text-decoration-line: underline;
+}
+#lijstje_drie ul li {
+    list-style: none;
+    display: flex;
+    width: 70%;
+
+}
+#lijstje_drie {
+    width: 70%;
+}
+#geld_drie {
+    display: flex;
+    width: 30%;
+    justify-content: center;
+    margin-top: 13px;
+}
+hr {
+    width: 62%;
+    margin-top: 2%;
+    background-color: black;
+}
+#h1 {
+    display: flex;
+    justify-content: center;
+}
+#box_vier {
+    display: inline-block;
+    justify-content: center;
+}
+#foto {
+    display: inline-block;
+    justify-content: center;
+}
+.samen {
+    width: 69%;
+    margin-left: 15%;
+
+}
